@@ -1,6 +1,10 @@
 ---
 title: "Lab 02 - Global plastic waste"
+<<<<<<< HEAD
 author: "Team Name: User1, Lena Artus, User3, User4, User5 and User6"
+=======
+author: "Team Name: Ellie, User2, User3, User4, User5 and User6"
+>>>>>>> ed43153aec770d705674facfd2f5efd8aeb1729e
 date: "`r Sys.Date()`"
 output: html_document
 ---
