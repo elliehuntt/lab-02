@@ -12,7 +12,6 @@ library(tidyverse)
 library(readxl)
 ```
 
-
 ## Load & join data sets
 
 ```{r load-data, message = FALSE}
@@ -33,8 +32,6 @@ library(readxl)
 
 
 ```
-
-
 
 ```{r join-data, message = FALSE}
 # Member 2 (pair 1) write code to create object 'plastic_data_all':
@@ -58,15 +55,12 @@ library(readxl)
 
 ```
 
-
 ```{r print-data, message = FALSE}
 # Member 2 (pair 1) adds code here to view the first 10 rows of 'plastic_data_all'
 
 
 
 ```
-
-
 
 ## Exercises
 
@@ -79,8 +73,6 @@ library(readxl)
 
 ```
 
-
-
 ### Ex 2.
 
 ```{r Ex2, message = FALSE}
@@ -90,7 +82,6 @@ library(readxl)
 
 ```
 
-
 ### Ex 3.
 
 ```{r Ex3, message = FALSE}
@@ -99,7 +90,6 @@ library(readxl)
 
 
 ```
-
 
 ### Ex 4.
 
